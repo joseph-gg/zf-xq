@@ -1,12 +1,12 @@
 import React, { Component } from 'react'
 
-class Map extends Component {
+class Profile extends Component {
     render() {
         return (
             <div>
-                Map
+                profile
             </div>
         )
     }
 }
-export default Map;
+export default Profile;

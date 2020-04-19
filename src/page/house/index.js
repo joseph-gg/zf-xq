@@ -1,12 +1,12 @@
 import React, { Component } from 'react'
-
-class Map extends Component {
+class House extends Component {
     render() {
         return (
             <div>
-                Map
+                House
             </div>
         )
     }
 }
-export default Map;
+
+export default House;

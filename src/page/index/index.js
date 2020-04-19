@@ -1,12 +1,11 @@
 import React, { Component } from 'react'
-
-class Map extends Component {
+class Index extends Component {
     render() {
         return (
             <div>
-                Map
+                index
             </div>
         )
     }
 }
-export default Map;
+export default Index;

@@ -20,9 +20,9 @@ ul,li {
 }
 
 * {
+  touch-action: pan-y;
   box-sizing: border-box;
 }
-.app a, .home a {
-  display: inline-block;
-  margin: 10px;
+#root,.app {
+  height: 100%;
 }
